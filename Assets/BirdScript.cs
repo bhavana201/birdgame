@@ -24,6 +24,7 @@ public class BirdScript : MonoBehaviour
     {
         logic.gameOver();
         birdIsAlive = false;
+        Debug.Log("git commited");
 
     }
 }
